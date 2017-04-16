@@ -37,13 +37,13 @@ namespace HardDriveCheckIFB
                     if (element.ToString() == "/?")
                     {
                         Console.WriteLine(" ╔══════════════════════════════════════════════════════════════════════╗");
-                        Console.WriteLine(" ║ Programmpfad.exe C C:\\Ergebnisspeicherort\\ /name=test                ║");
+                        Console.WriteLine(" ║ Programmpfad.exe C C:\\Ergebnisspeicherort\\ /name=test              ║");
                         Console.WriteLine(" ║                                                                      ║");
                         Console.WriteLine(" ║  Prorammpfad.exe Repressentiert dieses Programm                      ║");
                         Console.WriteLine(" ║                                                                      ║");
                         Console.WriteLine(" ║  C Repressentiert den zu Überwachenden Laufwerksbuchstaben           ║");
                         Console.WriteLine(" ║                                                                      ║");
-                        Console.WriteLine(" ║  C:\\Ergebnisspeicherort\\ Repressentiert den Speicherort des Logs     ║");
+                        Console.WriteLine(" ║  C:\\Ergebnisspeicherort\\ Repressentiert den Speicherort des Logs   ║");
                         Console.WriteLine(" ║  Auf Lokalem Datenträger oder Server                                 ║");
                         Console.WriteLine(" ║                                                                      ║");
                         Console.WriteLine(" ║  /name= dann Name, in dem fall test, das ist der PC Name             ║");
